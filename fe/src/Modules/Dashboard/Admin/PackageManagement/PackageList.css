@@ -1,0 +1,14 @@
+.header-pretitle {
+    color: #95aac9;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.text-truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.header-title {
+    margin-bottom: 0;
+}

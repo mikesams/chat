@@ -1,0 +1,56 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.p-dropdown:not(.p-disabled).p-focus {
+    box-shadow: none !important;
+}
+.p-datatable .p-column-header-content {
+color:#95aac9!important;
+white-space: nowrap;
+font-size: 12px;
+}
+.p-datatable .p-datatable-tbody > tr > td {
+    font-size: 15px !important;
+    font-weight: 400;
+}
+.p-datatable .p-paginator-bottom {
+    border: none !important;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    padding: 0;
+}
+.p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+    width: 30px;
+    height: 30px;
+    font-size: 12px;
+}
+.p-paginator .p-paginator-current {
+    font-size: 15px;
+}
+.sidebar {
+    background-color: #fff;
+    padding: 1.5rem;
+    bottom: 0;
+    display: block;
+    max-width: 265px;
+    overflow-y: auto;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border: 1px solid #e3ebf6;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.nav-link {
+    padding: .5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    color: #6e84a3;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.nav-link:hover {
+    color: #000;
+}

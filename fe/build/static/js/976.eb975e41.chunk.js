@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchat=self.webpackChunkchat||[]).push([[976],{7679:function(a,c,f){f(2791);c.Z=f.p+"static/media/f7.29950bdf69fe628e1adc26c1940180a0.svg"},5515:function(a,c,f){f(2791);c.Z=f.p+"static/media/f8.db66f705772f33746aa0d89cb8390676.svg"}}]);
+//# sourceMappingURL=976.eb975e41.chunk.js.map
